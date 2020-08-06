@@ -45,11 +45,12 @@
 <img align="left" alt="Linux" width="26px" src="https://cdn.pixabay.com/photo/2017/01/31/16/57/linux-2025536_960_720.png" />
 
 <br />
+<br />
 
 ---
 
 
-<img align="left" alt="karimkohel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=karimkohel&show_icons=true&hide_border=true" />
+<img align="left" alt="karimkohel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=karimkohel&show_icons=true&hide_border=true&count_private=true" />
 
 [website]: https://www.karimkohel.com
 [twitter]: https://twitter.com/karimkohel
