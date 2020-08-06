@@ -20,19 +20,19 @@
 
 <img align="left" alt="Python3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<img align="left" alt="Selenium" width="26px" src="https://images.g2crowd.com/uploads/product/image/social_landscape/social_landscape_1489700604/selenium-ide.png" />
-
 <img align="left" alt="Django" width="26px" src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/3/formation-django.png" />
 
 <img align="left" alt="Apache" width="26px" src="https://endertech.com/wp-content/uploads/2017/09/apache-logo.png" />
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
+<img align="left" alt="Selenium" width="26px" src="https://www.drupal.org/files/styles/grid-3/public/images/big-logo.png?itok=MOZk5YZl" />
+
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <img align="left" alt="Linux" width="26px" src="https://cdn.pixabay.com/photo/2017/01/31/16/57/linux-2025536_960_720.png" />
 
