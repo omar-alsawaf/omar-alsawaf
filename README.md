@@ -20,7 +20,7 @@
 
 <img align="left" alt="Python3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<img align="left" alt="Django" width="26px" src="https://banner2.kisspng.com/20180805/hho/kisspng-django-python-computer-icons-logo-portable-network-django-python-recruitment-task-1-5b6748f3586dc6.0530431515334955393622.jpg" />
+<img align="left" alt="Django" width="26px" src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/3/formation-django.png" />
 
 <img align="left" alt="Apache" width="26px" src="https://endertech.com/wp-content/uploads/2017/09/apache-logo.png" />
 
