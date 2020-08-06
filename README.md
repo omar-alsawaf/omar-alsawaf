@@ -20,6 +20,8 @@
 
 <img align="left" alt="Python3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
+<img align="left" alt="C" width="26px" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" />
+
 <img align="left" alt="Django" width="26px" src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/3/formation-django.png" />
 
 <img align="left" alt="Apache" width="26px" src="https://endertech.com/wp-content/uploads/2017/09/apache-logo.png" />
@@ -28,7 +30,7 @@
 
 <img align="left" alt="Selenium" width="26px" src="https://www.drupal.org/files/styles/grid-3/public/images/big-logo.png?itok=MOZk5YZl" />
 
-<img align="left" alt="Linux" width="26px" src="https://i.stack.imgur.com/ez8QV.png" />
+<img align="left" alt="OpenCV" width="26px" src="https://i.stack.imgur.com/ez8QV.png" />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
