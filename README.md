@@ -30,8 +30,6 @@
 
 <img align="left" alt="Bootstrap" width="26px" src="https://www.pinclipart.com/picdir/middle/35-353932_bootstrap-bootstrap-4-logo-png-clipart.png" />
 
-<img align="left" alt="Materialize" width="26px" src="http://cmsfiles.sbp-romania.com/13357/materialize.png" />
-
 <img align="left" alt="Selenium" width="26px" src="https://www.drupal.org/files/styles/grid-3/public/images/big-logo.png?itok=MOZk5YZl" />
 
 <img align="left" alt="OpenCV" width="26px" src="https://i.stack.imgur.com/ez8QV.png" />
@@ -41,8 +39,6 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<img align="left" alt="Conda" width="26px" src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" />
 
 <img align="left" alt="VScode" width="26px" src="https://user-images.githubusercontent.com/10379994/31985754-c56b8dba-b998-11e7-9705-a7f984433049.png" />
 
