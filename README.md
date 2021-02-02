@@ -1,11 +1,12 @@
-### Hi there, I'm Karim 👋
+### Hi there, I'm Karim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm a Developer, Student, and geek!
+- 🏠 Living in Egypt
 - 💻 Currently working as a freelance [web-developer][website] !
-- 📝 Currently learning everything 
+- 📝 Currently learning everything while studying computer engineering
 - 👥 Currently welcoming collaborations
 - 🏳 Security inthusiast
-- Fun fact: I'm also a DJ 🎛 !
+- 🔥 Fun fact: I'm also a DJ 🎛 !
 
 ### Connect with me:
 
@@ -58,7 +59,11 @@
 ---
 
 
-<img align="left" alt="karimkohel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=karimkohel&show_icons=true&hide_border=true&count_private=true" />
+<a href="https://github.com/karimkohel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimkohel&hide=objective-c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0e1535" />
+</a>
+
+<img align="left" alt="karimkohel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=karimkohel&show_icons=true&hide_border=true&count_private=true&bg_color=35,0b0c12,0e1535&title_color=fff&text_color=fff&icon_color=fff" />
 
 [website]: https://www.karimkohel.com
 [twitter]: https://twitter.com/karimkohel
