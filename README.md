@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Karim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
----
 
 ## I'm a Developer, Student, and geek!
 - 🏠 Living in Egypt
+- 📨 Reachable at kareemkohel@gmail.com
 - 💻 Currently working as a freelance [web-developer][website] !
 - 📝 Currently learning everything while studying computer engineering
 - 👥 Currently welcoming collaborations
