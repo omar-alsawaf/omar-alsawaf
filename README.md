@@ -1,4 +1,6 @@
-### Hi there, I'm Karim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<h1 align="center">Hi there, I'm Karim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+
+---
 
 ## I'm a Developer, Student, and geek!
 - 🏠 Living in Egypt
@@ -9,6 +11,7 @@
 - 🔥 Fun fact: I'm also a DJ 🎛 !
 
 ### Connect with me:
+<p align="left"> <a href="https://twitter.com/karimkohel" target="blank"><img src="https://img.shields.io/twitter/follow/karimkohel?logo=twitter&style=for-the-badge" alt="hegzploit" /></a> </p>
 
 [<img align="left" alt="karimkohel.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="karimkohel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -58,11 +61,13 @@
 
 ---
 
-<img align="left" alt="karimkohel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=karimkohel&show_icons=true&hide_border=true&count_private=true&bg_color=35,0b0c12,0e1535&title_color=fff&text_color=fff&icon_color=fff" />
+<img align="center" alt="karimkohel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=karimkohel&show_icons=true&hide_border=true&count_private=true&bg_color=35,0b0c12,0e1535&title_color=fff&text_color=fff&icon_color=fff" />
 
 <a href="https://github.com/karimkohel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimkohel&hide=objective-c&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0e1535" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimkohel&hide=objective-c&bg_color=35,0b0c12,0e1535&title_color=fff&text_color=fff&icon_color=fff&hide_border=true" />
 </a>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karimkohel&bg_color=35,0b0c12,0e1535&title_color=fff&text_color=fff&icon_color=fff&hide_border=true" alt="karimkohel" /></p>
 
 
 [website]: https://www.karimkohel.com
