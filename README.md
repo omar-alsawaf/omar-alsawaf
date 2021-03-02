@@ -26,7 +26,7 @@
 
 <img align="left" alt="C" width="26px" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" />
 
-<img align="left" alt="Django" width="26px" src="https://humancoders-formations.s3.amazonaws.com/uploads/course/logo/3/formation-django.png" />
+<img align="left" alt="Django" width="26px" src="https://john-bagiliko.github.io/images/logos/django.png" />
 
 <img align="left" alt="Apache" width="26px" src="https://endertech.com/wp-content/uploads/2017/09/apache-logo.png" />
 
