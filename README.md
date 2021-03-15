@@ -69,6 +69,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karimkohel&bg_color=35,0b0c12,0e1535&title_color=fff&text_color=fff&icon_color=fff&hide_border=true" alt="karimkohel's streak status" /></p>
 
+<p><img align="center" src="https://data.typeracer.com/misc/badge?user=karimkohel" alt="karimkohel's typing status" /></p>
+
 
 [website]: https://www.karimkohel.com
 [twitter]: https://twitter.com/karimkohel
