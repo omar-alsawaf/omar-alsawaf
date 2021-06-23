@@ -22,39 +22,37 @@
 
 ### Tech:
 
-<img align="left" alt="Python3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Python3" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<img align="left" alt="C" width="26px" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" />
+<img align="left" alt="C" width="28px" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" />
 
-<img align="left" alt="Django" width="26px" src="https://john-bagiliko.github.io/images/logos/django.png" />
+<img align="left" alt="Django" width="28px" src="https://john-bagiliko.github.io/images/logos/django.png" />
 
-<img align="left" alt="Apache" width="26px" src="https://endertech.com/wp-content/uploads/2017/09/apache-logo.png" />
+<img align="left" alt="Apache" width="28px" src="https://endertech.com/wp-content/uploads/2017/09/apache-logo.png" />
 
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="C#" width="28px" src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png" />
 
-<img align="left" alt="Bootstrap" width="26px" src="https://www.pinclipart.com/picdir/middle/35-353932_bootstrap-bootstrap-4-logo-png-clipart.png" />
+<img align="left" alt="java" width="28px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />
 
-<img align="left" alt="Selenium" width="26px" src="https://www.drupal.org/files/styles/grid-3/public/images/big-logo.png?itok=MOZk5YZl" />
+<img align="left" alt="Selenium" width="28px" src="https://www.drupal.org/files/styles/grid-3/public/images/big-logo.png?itok=MOZk5YZl" />
 
-<img align="left" alt="OpenCV" width="26px" src="https://i.stack.imgur.com/ez8QV.png" />
+<img align="left" alt="OpenCV" width="28px" src="https://i.stack.imgur.com/ez8QV.png" />
 
-<img align="left" alt="Qt" width="26px" src="https://www.claysol.com/public/images/qt.png" />
+<img align="left" alt="Qt" width="28px" src="https://www.claysol.com/public/images/qt.png" />
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="28px" src="https://img.icons8.com/fluent/50/000000/github.png" />
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="VScode" width="28px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
 
-<img align="left" alt="VScode" width="26px" src="https://user-images.githubusercontent.com/10379994/31985754-c56b8dba-b998-11e7-9705-a7f984433049.png" />
+<img align="left" alt="Subllime" width="28px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" />
 
-<img align="left" alt="Subllime" width="26px" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" />
+<img align="left" alt="Vim" width="28px" src="http://www.sromero.org/wiki/_media/linux/aplicaciones/vimman/vim-editor_logo.png" />
 
-<img align="left" alt="Vim" width="26px" src="http://www.sromero.org/wiki/_media/linux/aplicaciones/vimman/vim-editor_logo.png" />
+<img align="left" alt="Terminal" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="PostGresql" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png" />
 
-<img align="left" alt="PostGresql" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png" />
-
-<img align="left" alt="Linux" width="26px" src="https://cdn.pixabay.com/photo/2017/01/31/16/57/linux-2025536_960_720.png" />
+<img align="left" alt="Linux" width="28px" src="https://cdn.pixabay.com/photo/2017/01/31/16/57/linux-2025536_960_720.png" />
 
 <br />
 <br />
