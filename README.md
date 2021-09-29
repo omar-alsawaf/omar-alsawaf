@@ -2,7 +2,7 @@
 
 
 ## I'm a Developer, Student, and geek!
-- 🏠 Living in Egypt
+- 🏠 Living in Cairo, Egypt
 - 📨 Reachable at kareemkohel@gmail.com
 - 💻 Currently working as a freelance [web-developer][website] !
 - 📝 Check out my [online Library](https://drive.google.com/drive/folders/1Cx0w0peYKWUr_3B_wMyeUi2RF0wzpLDK?usp=sharing) for interesting books
