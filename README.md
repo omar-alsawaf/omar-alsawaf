@@ -13,10 +13,10 @@
 ### Connect with me:
 <p align="left"> <a href="https://twitter.com/karimkohel" target="blank"><img src="https://img.shields.io/twitter/follow/karimkohel?logo=twitter&style=for-the-badge" alt="hegzploit" /></a> </p>
 
-[<img align="left" alt="karimkohel.com" width="34px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="karimkohel | Twitter" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="karimkohel | LinkedIn" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="karimkohel | Instagram" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="karimkohel.com" width="120px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />][website]
+[<img align="left" alt="karimkohel | Twitter" width="120px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img align="left" alt="karimkohel | LinkedIn" width="120px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" alt="karimkohel | Instagram" width="120px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
 <br />
 
