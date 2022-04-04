@@ -7,7 +7,7 @@
 - 💻 Currently working as a freelance [web-developer][website] !
 - 📝 Check out my [online Library](https://drive.google.com/drive/folders/1Cx0w0peYKWUr_3B_wMyeUi2RF0wzpLDK?usp=sharing) for interesting books
 - 👥 Currently welcoming collaborations
-- 🏳 Security inthusiast
+- 🏳 Security enthusiast
 - 🔥 Fun fact: I'm also a professional DJ 🎛 !
 
 ### Connect with me:
