@@ -11,7 +11,7 @@
 - 🔥 Fun fact: I'm also a professional DJ 🎛 !
 
 ### Connect with me:
-<p align="left"> <a href="https://twitter.com/karimkohel" target="blank"><img src="https://img.shields.io/twitter/follow/karimkohel?logo=twitter&style=for-the-badge" alt="hegzploit" /></a> </p>
+<p align="left"> <a href="https://twitter.com/karimkohel" target="blank"><img src="https://img.shields.io/twitter/follow/karimkohel?logo=twitter&style=for-the-badge" alt="karimkohel" /></a> </p>
 
 [<img align="left" alt="karimkohel.com" width="120px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />][website]
 [<img align="left" alt="karimkohel | Twitter" width="120px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
