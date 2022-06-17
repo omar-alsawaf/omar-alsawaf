@@ -61,7 +61,7 @@
 
 <img align="center" alt="karimkohel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=karimkohel&show_icons=true&hide_border=true&count_private=true&bg_color=35,0b0c12,0e1535&title_color=fff&text_color=fff&icon_color=fff" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karimkohel&bg_color=35,0b0c12,0e1535&title_color=fff&text_color=fff&icon_color=fff&hide_border=true" alt="karimkohel's streak status" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karimkohel&&theme=dark&hide_border=true" alt="karimkohel's streak status" /></p>
 
 [website]: https://www.karimkohel.com
 [twitter]: https://twitter.com/karimkohel
