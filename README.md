@@ -10,6 +10,7 @@
 - 👥 Currently welcoming collaborations
 - 🔥 Fun fact: I'm also a professional DJ 🎛 !
 
+
 ### Connect with me:
 <p align="left"> <a href="https://twitter.com/karimkohel" target="blank"><img src="https://img.shields.io/twitter/follow/karimkohel?logo=twitter&style=for-the-badge" alt="karimkohel" /></a> </p>
 
