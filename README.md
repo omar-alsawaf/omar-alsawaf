@@ -11,13 +11,13 @@
 ### Reach out for me!
 <p align="left"> 
   <a href="https://twitter.com/Omar3Alsawaf" target="blank">
-    <img align="left" alt="Omar3Alsawaf | Twitter" width="120px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img align="left" width="120px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/_omar__samir_/" target="blank">
-    <img align="left" alt="_omar__samir_ | Instagram" width="140px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img align="left" width="140px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
    <a href="https://www.linkedin.com/in/omar-Alsawaf">
-    <img align="left" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="125px" alt="LinkedIn Badge"/>
+    <img align="left" width="125px" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"  />
   </a>
   </a>
   </br>
