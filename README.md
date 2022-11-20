@@ -5,6 +5,9 @@
   </a> 
   </h1>
   
+<p>Welcome to my page! </br> I'm Omar, A gamer, A car enthusiast and A computer engineering student from  <img src="https://cdn-icons-png.flaticon.com/512/299/299790.png" width="20"/> <b>Cairo, Egypt. </b></p>
+
+  
 ### Reach out for me!
 <p align="left"> 
   <a href="https://twitter.com/Omar3Alsawaf" target="blank">
@@ -13,7 +16,7 @@
   <a href="https://www.instagram.com/_omar__samir_/" target="blank">
     <img align="left" alt="_omar__samir_ | Instagram" width="140px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  < a href=" www.linkedin.com/in/omar-Alsawaf" target="blank">
+  < a href="https:www.linkedin.com/in/omar-Alsawaf" target="blank">
     <img align="left" alt="omar-Alsawaf | LinkedIn" width="120px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   </br>
