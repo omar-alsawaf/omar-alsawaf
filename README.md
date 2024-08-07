@@ -24,10 +24,8 @@
   </br>
   </p>
 
-- 🧑‍💻 Currently working for [RobEn](https://roben.club)'s [Software & AI](https://roben.club/teams/#ai_team) team !
 - 👨‍🎓 going through my learning process
 - 📫 my contact: omarsamir2537@gmail.com
-- ⚡ fun fact: I game on my Laptop
 
 
 <h3 align="left">Languages and Tools:</h3>
